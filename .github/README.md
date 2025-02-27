@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
     <br>
     <img
         src="./assets/emblem_carnival_round_transparent.png" 
@@ -19,7 +19,7 @@
         <a href="https://www.barnesandnoble.com/w/calypso-mad-alex/1147035473?ean=2940184455297">Barnes & Noble</a>
         •
     </span>
-</p>
+</div>
 <br>
 <p align="center">
     <a
