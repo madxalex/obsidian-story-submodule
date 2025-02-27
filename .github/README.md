@@ -1,3 +1,28 @@
+<p align="center">
+    <br>
+    <img
+        src="./assets/emblem_carnival_round_transparent.png" 
+        alt="The Mad Alex emblem in carnival style"
+        width="256px"
+    />
+    <br>
+    <br>
+    <i>
+        brief welcome and title here.
+        <br> subtitle copy here.
+    </i>
+    <br>
+</p>
+
+<p align="center">
+    •
+    <a href="https://discord.gg/T3xvs27eUM">The Mad Alex Midnight Amusements Discord</a>
+    •
+    <br>
+</p>
+<hr>
+<br>
+
 # obsidian-submodule
 
 Template repository for creating submodules for Obsidian writing vault.
