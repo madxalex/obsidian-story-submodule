@@ -7,12 +7,13 @@
     />
     <br>
     <br>
-    <span style="font-size:3em;">brief welcome and title here.</span>
+    <h1>brief welcome and title here.</h1>
+    <span>subtitle copy here and project blurb.</span>
     <br>
-    <span style="font-size:2em;">subtitle copy here.</span>
     <br>
-    <br>
-    <span style="font-size:1.5em;">
+    <span>
+        •
+        [![][apple-books-shield]][apple-books-link]
         •
         <a href="https://books.apple.com/us/book/calypso/id6742083639">Apple Books</a>
         |
@@ -67,3 +68,7 @@ story
 where `ebooks/` holds all `.epub`, `.pdf`, and related files; `graphics/` 
 holds all files for book cover design, promotion, etc; and `**overview` and 
 `*outline` are starter docs to get the main ideas of the story down.
+
+<!-- LINK GROUP -->
+[apple-books-shield]: https://img.shields.io/badge/Apple_Books-ffa004?style=flat-square&logo=apple&logoColor=fff&logoSize=auto
+[apple-books-link]: https://books.apple.com/us/book/calypso/id6742083639
