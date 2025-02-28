@@ -12,16 +12,22 @@
     <br>
     <br>
     <span>
-        •
-        [![][apple-books-shield]][apple-books-link]
-        •
-        <a href="https://books.apple.com/us/book/calypso/id6742083639">Apple Books</a>
-        |
-        <a href="https://www.barnesandnoble.com/w/calypso-mad-alex/1147035473?ean=2940184455297">Barnes & Noble</a>
-        •
+        <a href="https://books.apple.com/us/book/calypso/id6742083639">
+            <img
+                src="./assets/apple_books_badge.png"
+                alt="Apple Books Badge"
+                width="252px"
+            />
+        </a>
+        <a href="https://www.barnesandnoble.com/w/calypso-mad-alex/1147035473?ean=2940184455297">
+            <img
+                src="./assets/Barnes_and_Noble_Badge.png"
+                alt="Barnes and Noble Badge"
+                width="252px"
+            />
+        </a>
     </span>
 </div>
-<br>
 <p align="center">
     <a
         href="https://discord.gg/T3xvs27eUM"
@@ -44,9 +50,7 @@
 <hr>
 <br>
 
-<p align="center">
-    <span style="font-size:2em;">obsidian-submodule</span>
-</p>
+# obsidian-submodule
 
 Template repository for creating submodules for Obsidian writing vault.
 
